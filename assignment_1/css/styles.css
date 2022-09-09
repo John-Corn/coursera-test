@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    position: relative;
+}
+
+#container{
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    background-color: gray;
+}
+
+#smaller-container {
+    position: relative;
+    float: right;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
