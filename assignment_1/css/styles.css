@@ -21,18 +21,8 @@ h1 {
     margin-bottom: 50px;
 }
 
-/*p {
-    border: 1px solid black;
-    background-color: red;
-    width: 100%;
-    height: 150px;
-    margin-right: auto;
-    margin-left: auto;
-    color: wheat;
-}*/
-
 #container{
-    border: 2px solid black;
+    border: 1px solid black;
     background-color: #9d9a98;
     width: 100%;
     height: 220px;
@@ -48,15 +38,15 @@ h1 {
     width: auto;
     height: 150px;
     overflow: auto;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-right: 10px;
     font-size: 20px;
 }
 
 #p1{
     background-color: pink;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     width: 40%;
     height: 40px;
     text-align: center;
@@ -67,8 +57,8 @@ h1 {
 }
 #p2{
     background-color: lightsalmon;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     width: 40%;
     height: 40px;
     text-align: center;
@@ -78,8 +68,8 @@ h1 {
 }
 #p3{
     background-color: lightgoldenrodyellow;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     width: 40%;
     height: 40px;
     text-align: center;
