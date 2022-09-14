@@ -206,7 +206,7 @@ body {
 
 /* SINGLE CATEGORY PAGE */
 .menu-item-tile {
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }
 .menu-item-tile hr {
   width: 80%;
@@ -240,6 +240,7 @@ body {
 }
 .menu-item-description {
   padding-right: 30px;
+  margin-top: -22px;
 }
 h3.menu-item-tile {
   margin: 0 0 10px;
@@ -378,6 +379,17 @@ h3.menu-item-tile {
     margin: 0 auto 15px;
   }
   /*End Home Page */
+
+  .menu-item-photo {
+    margin-right: auto;
+  }
+  .menu-item-tile .menu-item-price {
+    text-align: center;
+  }
+  .menu-item-description {
+    text-align: center;
+    margin-top: 1px;
+  }
 }
 
 
